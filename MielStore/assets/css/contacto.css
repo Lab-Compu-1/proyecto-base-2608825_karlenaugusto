@@ -1,0 +1,23 @@
+.redes-color-text {
+    color: rgb(206, 134, 1);
+    margin-left: 25px;
+}
+
+.font-helvetica {
+  font-family: 'helvetica';
+src: url('assets/fuentes/Helvetica Font Fsmily/Helvetica-Bold.ttf') format(ttf);}
+
+.conteiner-redeslogo{
+        width: 950px;
+        height: 60px;
+        background-color: rgb(255, 166, 0);
+        margin-left: 10px;
+        padding-top: 10px;
+    }
+.color-logo-text {
+    color: white;
+}
+.conteiner-img-contacto {
+    height: 600px;
+}
+
